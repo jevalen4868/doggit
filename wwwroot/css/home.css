@@ -1,0 +1,18 @@
+#content {
+    background-image: url('../img/AZLAN_BW_FLIP.JPG');
+    background-repeat: no-repeat;
+    color: #ffffff;
+}
+
+.navbar
+{
+	margin-bottom: 0px;
+}
+
+@media (min-width: 1024px) {
+    #content {
+        background-position: top, center;
+    }
+}
+
+.header {}
